@@ -29,4 +29,14 @@ export default [
     prise: 33333,
     image: 'https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/04/298571-smartwatch-fitbit-versa.jpg?tf=3840x',
   },
+  {
+    title: 'sdsjkdsghjdsghjdsgh',
+    prise: 33333,
+    image: 'https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/04/298571-smartwatch-fitbit-versa.jpg?tf=3840x',
+  },
+  {
+    title: 'sdsjkdsghjdsghjdsgh',
+    prise: 33333,
+    image: 'https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/04/298571-smartwatch-fitbit-versa.jpg?tf=3840x',
+  },
 ];
